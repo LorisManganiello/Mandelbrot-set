@@ -17,7 +17,7 @@ Il programma calcola se ogni punto complesso \( c \) appartiene al Set di Mandel
 ## Funzionamento
 
 - Il piano complesso viene scandito all'interno di un intervallo definito (`xa` a `xb`, `ya` a `yb`) con una certa precisione.
-- Per ogni punto \( c \), viene iterata la formula $$ z_{n+1} = z_n^2 + c $$ a partire da $$ z_0 = 0 $$.
+- Per ogni punto \( c \), viene iterata la formula $ z_{n+1} = z_n^2 + c $ a partire da $ z_0 = 0 $.
 - Se il modulo di \( z \) supera il valore 2, il punto è considerato divergente e viene registrato il numero di iterazioni.
 - Il risultato finale viene visualizzato con una mappa colori 2D.
 
