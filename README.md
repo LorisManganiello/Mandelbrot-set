@@ -3,6 +3,7 @@
 ![Stato](https://img.shields.io/badge/Stato-complete-orange)
 ![Linguaggio](https://img.shields.io/badge/Linguaggio-MatLab-blue)
 ![Ms](https://img.shields.io/badge/Progetto-Mandelbrot%Set-red)
+![Ms](https://img.shields.io/badge/Progetto-Mandelbrot%25Set-red)
 
 ## Descrizione
 
