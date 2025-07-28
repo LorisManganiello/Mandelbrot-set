@@ -1,8 +1,8 @@
 # Mandelbrot Set
 
-![Stato](https://img.shields.io/badge/Stato-complete-orange)
+![Stato](https://img.shields.io/badge/Stato-complete-green)
 ![Linguaggio](https://img.shields.io/badge/Linguaggio-MatLab-blue)
-![Ms](https://img.shields.io/badge/Progetto-Mandelbrot%25Set-red)
+![Logistic Map](https://img.shields.io/badge/Progetto-Mandelbrot%20Set-red.svg)
 
 ## Descrizione
 
